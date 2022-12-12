@@ -1,0 +1,12 @@
+.pos{
+    display: flex;
+    position: absolute;
+    padding-left: 500px;
+    
+}
+/* .collapsed .pos .fir{
+    padding-right:50px;
+} */
+nav div div a{
+    padding-right:50px;  
+}
